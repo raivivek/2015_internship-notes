@@ -3,7 +3,7 @@ Transformation #2
 
 *25th May 2015, 10.00pm*
 
-With second Monday into the program began the weekly lectures on specialized
+With second Monday into the program, began the weekly lectures on specialized
 topics to be given by the eminent faculties of the institute itself. Classes
 are usually scheduled from 10.00 am to 11.00 am in the morning and span from
 around four days a week from Monday to Thursday.

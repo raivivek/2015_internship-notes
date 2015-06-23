@@ -13,7 +13,7 @@ preparation. It involved a lot of time consuming and manual steps like lysing
 the cells, centrifuging, equilibrating the column, measuring OD values, washing
 and elution of beads and finally the gel filtration.
 
-In gel filtration, we obtained three peaks and the target protein was obtained
+In gel filtration, we obtained three peaks\* and the target protein was obtained
 in the fractions corresponding to 13-16. The peak was considerably higher compared
 to previous purification attempts, as told by Pradeep. So we are expecting a good
 yield of pure protein this time.

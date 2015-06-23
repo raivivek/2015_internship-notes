@@ -13,13 +13,13 @@ type protein.
 
 In the RBC lysis experiment, however, we didn't observe that amount of activity
 initially even with the high concentrations of protein. It then came to mind that
-perhaps because of two cystein mutations, protein is forming intra/inter molecular
-disulfide bridges thereby restricting the activity. To test this idea, we further
-added Beta mercaptoethanol to the lysis solution and obtained a strong increase
-in activity (and a good support to the Bradford data we obtained). However, to
-ensure that the Beta mercaptoethanol itself was not causing the lysis of cell, we
-add it to the blank as well and could obtain no increase in optical density values
-there.
+perhaps because of one extra cystein mutations, protein is forming intra/inter
+molecular disulfide bridges thereby restricting the activity. To test this
+idea, we further added Beta mercaptoethanol to the lysis solution and obtained
+a strong increase in activity (and a good support to the Bradford data we
+obtained). However, to ensure that the Beta mercaptoethanol itself was not
+causing the lysis of cell, we add it to the blank as well and could obtain no
+increase in optical density values there.
 
 This confirmed the idea that a higher conc. of beta mercaptoethanol is needed
 for this protein to work, this in addition to already four fold increase that

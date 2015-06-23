@@ -1,11 +1,11 @@
 SDS-PAGE, Protein estimation
 ============================
 
-*29th May 2015, 08.50pm*
+*29th May 2015, 08.50 pm*
 
 Today we had to run the SDS PAGE of the protein eluates that we obtained from
 the gel filtration (size-exclusion) chromatography column. We had obtained three
-peaks corresponding to fraction 3-4, fraction 10-11 and fraction 13-16.
+peaks corresponding to fraction 3-4, fraction 10-11 and fraction 13-16.\*
 
 These samples were run on gel along with the load and 30 K pellet to obtain
 an estimate of other protein contaminants and a rough indication of the
@@ -31,6 +31,15 @@ some experiment and the effects obtained. Since real molecular explanation
 or insight into the cause of such effects were described, I felt a bit
 unsatisfied towards the end.
 
+
+\* These three different peaks corresponding to gel filtration graph, when run
+on SDS-PAGE, showed band of same molecular weight. This indicates that some
+fraction of our protein had oligomerized during the process purification
+process and thus was obtained as two peaks during purification. Later, however,
+due to denaturing conditions of electrophoresis, these oligomers were denatured
+into monomers and came off as band of same molecular size on gel.
+
+But why is this happening? Will have to give it a bit of thought.
 
 Lab & Theory
 ------------
